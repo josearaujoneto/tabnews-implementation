@@ -1,5 +1,3 @@
 const Home = () => {
-    return (
-        <>Home TabNews</>
-    )
-}
+  return <>Home TabNews</>;
+};
